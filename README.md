@@ -14,6 +14,7 @@ This repo contains the synthetic catalogs from simulations in the following pape
 - `dif{x}`: diffusion creep coefficient amplifer
 - `eta{x}`: uniform linear viscosity (Pa s)
 - `bgs{x}`: background strain rate under dislocation creep (1/s)
+- `gs{x}`: grid size (m); *250 m* if without
 
 
 ## Contents
